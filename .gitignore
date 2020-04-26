@@ -42,3 +42,4 @@ log/
 target
 project/project
 project/target
+.metals
